@@ -59,11 +59,6 @@ Open FirebaseArduino/src/FirebaseHttpClient.h and scroll to the end of the page,
 To generate a fingerprint, go to this [website](https://www.grc.com/fingerprints.htm) and copy your Firebase host link without the https part (your might look something like this your-prject-name.firebaseio.com) and click on Fingerprint Site.
 Copy the newly generated fingerprint in the place of the FirebaseFingerprint[] value and replace the columns with spaces.
 
-Upload the code and you're good to go.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## References
 
