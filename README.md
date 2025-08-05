@@ -1,4 +1,5 @@
-# Firebase IoT Demo with ESP8266.
+# Firebase IoT Demo with ESP8266
+.
 
 This project uses ESP8266 to read sensors, connect to Firebase and push data to Realtime Database. Temperature and Humidity data is read from DHT11 sensor, Gas leak detection is read from MQ5 Gas sensor finally device heartbeat is sent every 2 secondes to Firebase to ensure device cinnection.
 Note that you can simulate the sensors with random values by uncommenting 'DONT_HAVE_SENSORS' define.
